@@ -31,7 +31,7 @@ Input files can be gzipped.
 
 ```
 Usage:
-    dkpl indx -g gff_file -f genome.fasta -i index_dir
+    dkpl indix -g gff_file -f genome.fasta -i index_dir
 
   Mandatory Arguments:
       -a,--annotations FILE   GFF annotation file
